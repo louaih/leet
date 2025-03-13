@@ -4,6 +4,7 @@ twosum2.py
 Solution to Leetcode #167
 """
 
+
 def twoSum(numbers, target):
     left = 0
     right = len(numbers) - 1

@@ -4,6 +4,7 @@ prod_except_self.py
 Solution to Leetcode #238
 """
 
+
 def productExceptSelf(nums):
     n = len(nums)
     answer = [1 for i in range(n)]
